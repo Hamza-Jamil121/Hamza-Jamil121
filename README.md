@@ -38,47 +38,6 @@ I am passionate about designing scalable data systems, solving complex engineeri
 - AI-Ready Data Pipelines  
 - Embeddings & Unstructured Data Processing  
 
-## ☁️ Cloud Platforms
-
-### Google Cloud Platform (GCP)
-- BigQuery  
-- Cloud Storage (GCS)  
-- Dataproc  
-- Dataflow  
-- Cloud Composer  
-- Cloud Functions  
-- Pub/Sub  
-
-### Amazon Web Services (AWS)
-- S3  
-- Lambda  
-- Glue  
-- Redshift  
-- RDS  
-- Athena  
-- EC2  
-
-### Microsoft Azure
-- Azure Data Factory  
-- Azure Synapse Analytics  
-
-## 🛠️ Tools & Technologies
-- Apache Airflow  
-- Informatica  
-- Hadoop / Cloudera  
-- Docker  
-- PostgreSQL  
-- Git & GitHub  
-- Linux Environment  
-
-## 📂 Data Engineering & AI Projects
-- Enterprise Data Lake & Data Warehouse Development  
-- End-to-End ETL/ELT Pipelines  
-- Event-Based Cloud Pipelines  
-- RAG-based Enterprise Search Systems  
-- NL-to-SQL AI Solutions  
-- Cloud-Based Data Processing Systems  
-- Real-Time Streaming Data Pipelines  
 
 ## 🏆 Certifications
 🏅 Google Professional Data Engineer  
@@ -87,5 +46,3 @@ I am passionate about designing scalable data systems, solving complex engineeri
 🏅 Google Professional Cloud DevOps Engineer  
 🏅 Microsoft Azure DP-203 Data Engineering  
 
-## 🎯 Career Objective
-To build scalable, cloud-native, and AI-powered data platforms by combining **Data Engineering, Data Architecture, and Generative AI** to solve complex business problems and enable intelligent decision-making.
