@@ -1,6 +1,6 @@
 # Hi, I'm Syed Hamza Jamil 👋
 
-🚀 Data Engineer | Generative AI Engineer | Data Architect | Cloud Data Engineer | GCP | AWS | Azure | Python | SQL | Spark | Airflow | RAG | LLMs | 7+ Years of Experience
+🚀 Data Engineer | Generative AI Engineer | Data Architect | Cloud Data Engineer
 
 I am a **Data Engineer with 7+ years of experience** in building scalable **data platforms, cloud-native architectures, data warehouses, and enterprise data pipelines**. I specialize in designing end-to-end **ETL/ELT solutions**, real-time and batch processing systems, and modern cloud-based data ecosystems.
 
